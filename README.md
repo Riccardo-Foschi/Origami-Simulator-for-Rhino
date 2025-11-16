@@ -55,7 +55,7 @@ CPs are drawn in <strong>Rhino</strong> as curves and then imported into <strong
 <hr>
 
 <h2>📝 License</h2>
-<p><em>Add your license information here.</em></p>
+<p><em>https://github.com/Riccardo-Foschi/Grasshopper-Origami-Simulator-Kangaroo-/blob/main/LICENSE</em></p>
 
 <hr>
 
