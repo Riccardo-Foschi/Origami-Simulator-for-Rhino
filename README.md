@@ -6,8 +6,8 @@ CPs are drawn in <strong>Rhino</strong> as curves and then imported into <strong
 <hr>
 
 
-<p> <a href="https://github.com/Riccardo-Foschi/Grasshopper-Origami-Simulator-Kangaroo-/blob/main/OrigamiSIM_08.gh">DOWNLOAD THE GRASSHOPPER ALGORITHM FROM HERE</a>.
-<p> <a href="https://github.com/Riccardo-Foschi/Grasshopper-Origami-Simulator-Kangaroo-/blob/main/example%20patterns.3dm">DOWNLOAD A RHINO FILE WITH SOME EXAMPLE PATTERNS FROM HERE</a>.
+<p> <a href="https://github.com/Riccardo-Foschi/Grasshopper-Origami-Simulator-Kangaroo-/blob/main/OrigamiSIM_08.gh">DOWNLOAD THE GRASSHOPPER ALGORITHM FROM HERE</a>. (click on the link and on 'view raw' to download)
+<p> <a href="https://github.com/Riccardo-Foschi/Grasshopper-Origami-Simulator-Kangaroo-/blob/main/example%20patterns.3dm">DOWNLOAD A RHINO FILE WITH SOME EXAMPLE PATTERNS FROM HERE</a>. (click on the link and on 'view raw' to download)
 
 <h2>✨ Features</h2>
 
