@@ -67,8 +67,9 @@ CPs are drawn in <strong>Rhino</strong> as curves and then imported into <strong
 <p>Contributions, bug reports, and feature requests are welcome.  
 Please open an issue or submit a pull request.</p>
 <p>
-The main contributor to this tool is <strong>Riccardo Foschi</strong>, who began this research as a personal project in 2017 during his PhD. Several other researchers have contributed to its development—directly or indirectly—within the context of the 
-<a href="https://structuralorigami.com/">Structural Origami Gatherings</a>.
-</p>
+The main contributor to this tool is <strong>Riccardo Foschi</strong>, who began this research as a personal project in 2017 during his PhD. Several other researchers have contributed to its development—directly or indirectly—within the context of the <a href="https://structuralorigami.com/">Structural Origami Gatherings</a>. 
+  
+</p> Special thanks to Rupert Maleczek, whose precious advice helped resolve several issues, gave ideas for new features, and actively contributed toimprove many aspects of the algorithm.
+
 
 
